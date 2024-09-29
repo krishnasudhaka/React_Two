@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<title>DAY 1 CLASS NOTES: JAVA SCRIPT INTEGRATION WITH HTML</title>
+		<!--CSS Integration: style-->
+		<style>
+			#head1{
+				background-color:yellow;
+			}
+		</style>
+	</head>
+
+	<body>
+		<!--CSS Integration:style below-->
+		<h1 style="color:red" id="head1">We are learning javascript</h1>
+	</body>
+</html>
